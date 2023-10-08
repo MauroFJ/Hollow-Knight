@@ -1,0 +1,48 @@
+header {
+    background-image: url('../imagens/hollow-knight-header.webp');
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 600px;
+
+}
+
+
+.logo {
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+
+.logotc {
+    height: 100px;
+    padding-left: 35px;
+    padding-top: 30px;
+}
+
+.social {
+    display: flex;
+    justify-content: end;
+    padding-right: 40px;
+    height: 0px;
+}
+
+.social > a {
+    color: white;
+    padding-top: 40px;
+    padding-right: 25px;
+    font-size: 1.8em;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.logohk {
+    margin-top: 300px;
+}
+
+.logohk .ui {
+    width: 500px;
+}

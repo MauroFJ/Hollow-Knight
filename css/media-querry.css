@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+    .logohk .ui{
+        width: 400px;
+        margin-top: 30px;
+    }
+}
+
+@media (min-width: 1558px) {
+    .imagem-dos-logos > .img-logos  img{
+        margin-left: 100px;
+    }
+}
